@@ -25,10 +25,6 @@ function onStopSwitcher() {
 
 
 
-console.log(startBtn)
-
-
-
 
 
 
